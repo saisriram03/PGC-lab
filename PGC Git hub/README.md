@@ -255,7 +255,3 @@ This setup screenshot records Ubuntu package installation and a package-index up
 ## Screenshot Index
 
 Each screenshot has one label beside it, ordered Sequential, OpenMP, MPI, and CUDA. All 14 charts and screenshots are stored in the repository and embedded above. See the [image manifest](images/README.md) for a file checklist.
-
-## License
-
-No license is included. Add one after deciding how this project should be reused.
