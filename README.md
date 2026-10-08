@@ -1,67 +1,51 @@
+# ⚡🖥️ PARALLEL & GPU COMPUTING LAB 🖥️⚡
+
 <div align="center">
 
-# ⚡ PARALLEL & GPU COMPUTING LAB ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,25:0072FF,50:7B2FFF,75:FF00C8,100:FF6B00&height=220&section=header&text=PARALLEL%20%26%20GPU%20COMPUTING%20LAB&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SEQUENTIAL%20%7C%20OPENMP%20%7C%20MPI%20%7C%20CUDA&descAlignY=58&descSize=18" width="100%"/>
 
-### 🚀 Complete Laboratory Portfolio — Parallel Computing, GPU Computing & Performance Analysis
+### 👨‍💻 **SAI SRI RAM**
 
-<p>
-  <img src="https://img.shields.io/badge/PGC-LAB-6C63FF?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/C-PROGRAMMING-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenMP-SHARED%20MEMORY-F39C12?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Pthreads-MULTITHREADING-2ECC71?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MPI-DISTRIBUTED%20MEMORY-8E44AD?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CUDA-GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Benchmarking-Performance-E74C3C?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Virtualization-Experiments-3498DB?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-27AE60?style=for-the-badge">
-</p>
+**B.Tech — Computer Science (Artificial Intelligence)**  
+**KLE Technological University, Hubballi**
 
 <br>
 
-## 👨‍🎓 Sai Sri Ram
-
-### 🎓 Roll No. 214
-
-**Parallel & GPU Computing Laboratory**
-
-> **Understand → Implement → Parallelize → Execute → Measure → Analyze**
+![C](https://img.shields.io/badge/💻_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![OpenMP](https://img.shields.io/badge/⚡_OpenMP-FF6B00?style=for-the-badge)
+![MPI](https://img.shields.io/badge/🔗_MPI-7B2FFF?style=for-the-badge)
+![CUDA](https://img.shields.io/badge/🚀_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GPU](https://img.shields.io/badge/🎮_GPU_Computing-00C6FF?style=for-the-badge)
+![Parallel](https://img.shields.io/badge/🧩_Parallel_Computing-FF00C8?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🌟 ABOUT THIS REPOSITORY
+# 🌌 PARALLEL & GPU COMPUTING LAB
 
-Welcome to my **Parallel & GPU Computing Laboratory Portfolio**.
+> ### 🚀 A complete journey from **Sequential Computing → Shared-Memory Parallelism → Distributed Computing → GPU Acceleration**
 
-This repository contains my laboratory experiments, implementations, source code, execution outputs, screenshots, benchmark data, graphs, performance analysis, and mini-project work completed as part of the **Parallel & GPU Computing (PGC)** course.
+This repository contains the practical work completed as part of the **Parallel and GPU Computing Laboratory**.
 
-The repository demonstrates the progression from **sequential computing** to **multithreaded programming**, **shared-memory parallelism**, **distributed-memory computing**, **GPU acceleration**, and **performance benchmarking**.
-
----
-
-# 🧭 REPOSITORY ROADMAP
+The work explores how the same computational problem can be solved using different execution models and how parallelism affects performance, scalability, and execution time.
 
 ```text
-                              ⚡ PGC LAB ⚡
-                                   │
-          ┌────────────────────────┼────────────────────────┐
-          │                        │                        │
-          ▼                        ▼                        ▼
-    🧪 CORE PGC              🧵 MULTITHREADING         🚀 MINI PROJECT
-          │                        │                        │
-    ┌─────┼─────┐            ┌─────┴─────┐                  │
-    │     │     │            │           │                  ▼
-    ▼     ▼     ▼            ▼           ▼          Parallel Vector
- Sequential OpenMP  MPI   Pthreads    OpenMP        Multiplication
-    │      │      │            │           │
-    └──────┴──────┘            └─────┬─────┘
-           │                          │
-           ▼                          ▼
-         CUDA                  Benchmarking
-                                      │
-                                      ▼
-                              Performance Analysis
+                    ⚙️ PARALLEL & GPU COMPUTING
+                               │
+                ┌──────────────┼──────────────┐
+                ↓              ↓              ↓
+          🧪 EXP-2       💡 MINI PROJECT   📚 LAB WORK
+                │              │              │
+                ↓              ↓              ↓
+       PThreads/OpenMP   Vector Multiplication
+       Performance       Benchmarking
+                │              │
+                └───────┬──────┘
+                        ↓
+               🚀 PARALLEL COMPUTING
+                        │
+          ┌─────────────┼─────────────┐
+          ↓             ↓             ↓
+      🖥️ CPU        🌐 MPI        🎮 GPU
+    Sequential      OpenMP        CUDA
