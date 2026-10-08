@@ -1,51 +1,81 @@
-# ⚡ Parallel & GPU Computing Lab
-
 <div align="center">
 
-## 🚀 PGC Laboratory Experiments
+# ⚡ PARALLEL & GPU COMPUTING LAB
 
-### Sequential → OpenMP → MPI → CUDA
+### 🚀 From Sequential Execution to Massive Parallelism
 
-![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-Lab-6C63FF?style=for-the-badge)
-![PGC](https://img.shields.io/badge/Parallel%20%26%20GPU%20Computing-Experiments-00A8E8?style=for-the-badge)
-![C](https://img.shields.io/badge/C-Programming-1E90FF?style=for-the-badge)
-![CUDA](https://img.shields.io/badge/CUDA-GPU-76B900?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/PGC-LAB-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white">
+  <img src="https://img.shields.io/badge/C-PROGRAMMING-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenMP-PARALLELISM-F59E0B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MPI-DISTRIBUTED-8E44AD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CUDA-GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+</p>
 
-**A practical collection of Parallel and GPU Computing laboratory experiments.**
+<p>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-Laboratory-00A8E8?style=flat-square">
+  <img src="https://img.shields.io/badge/Linux-Environment-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/GitHub-Version%20Control-181717?style=flat-square&logo=github">
+  <img src="https://img.shields.io/badge/Matrix%20Multiplication-4000%C3%974000-E74C3C?style=flat-square">
+</p>
+
+<br>
+
+### 👨‍💻 Sai Sri Ram
+### 🎓 Roll No. 214
+
+**Parallel & GPU Computing Laboratory**
+
+<br>
+
+> **Learn the Architecture • Build the Program • Parallelize the Work • Measure the Performance • Analyze the Result**
 
 </div>
 
 ---
 
-## 👨‍🎓 Student Details
+# 🧭 Repository Navigation
 
-| Field | Details |
+| Section | What you will find |
 |---|---|
-| **Name** | **Sai Sri Ram** |
-| **Roll No.** | **214** |
-| **Subject** | **Parallel & GPU Computing (PGC)** |
-| **Repository** | **PGC Lab** |
-| **GitHub** | [saisriram03](https://github.com/saisriram03) |
+| 🧮 **Sequential** | Baseline matrix multiplication |
+| 🧵 **OpenMP** | Shared-memory CPU parallelism |
+| 🌐 **MPI** | Distributed-memory processing |
+| ⚡ **CUDA** | GPU acceleration |
+| 🖥️ **Hypervisor Analysis** | VM / virtualization performance |
+| 📊 **Performance** | Execution time, speedup and comparison |
+| 🧪 **Experiments** | Source code, screenshots and documentation |
 
 ---
 
-## 📌 About This Repository
+# ✨ 01 · ABOUT THIS LAB
 
-Welcome to my **Parallel & GPU Computing (PGC) Lab** repository.
+Welcome to my **Parallel & GPU Computing Lab** repository.
 
-This repository contains my implementations, experiment documentation, execution evidence, architecture diagrams, benchmark results, and observations.
+This repository documents the implementation and analysis of different approaches to high-performance computation.
 
-The experiments progress from a basic **sequential CPU implementation** to shared-memory parallelism, distributed-memory parallelism, GPU acceleration, and virtualization performance analysis.
-
-### 🧩 Experiment Flow
+The work begins with a simple sequential program and progressively introduces more powerful computing models:
 
 ```text
-01  Sequential CPU
-        ↓
-02  OpenMP Shared-Memory
-        ↓
-03  MPI Distributed-Memory
-        ↓
-04  CUDA GPU Computing
-        ↓
-05  VM vs Container / Hypervisor Analysis
+                  ┌─────────────────────┐
+                  │   SEQUENTIAL CPU    │
+                  │      Baseline       │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │       OpenMP        │
+                  │  Shared-Memory CPU  │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │        MPI          │
+                  │ Distributed Memory  │
+                  └──────────┬──────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │       CUDA          │
+                  │    GPU Computing    │
+                  └─────────────────────┘
