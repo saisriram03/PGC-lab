@@ -1,93 +1,65 @@
 <div align="center">
 
-# 🌈⚡🚀 PARALLEL & GPU COMPUTING LAB 🚀⚡🌈
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,15:0066FF,30:7B2FFF,45:FF00C8,60:FF0080,75:FF6B00,90:FFD000,100:00FF88&height=280&section=header&text=PARALLEL%20%26%20GPU%20COMPUTING&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SEQUENTIAL%20%7C%20PTHREADS%20%7C%20OPENMP%20%7C%20MPI%20%7C%20CUDA&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,12:FF00C8,25:7B2FFF,40:0066FF,55:00C6FF,70:00FF88,85:FFD000,100:FF6B00&height=300&section=header&text=⚡%20PARALLEL%20%26%20GPU%20COMPUTING%20⚡&fontSize=43&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🖥️%20SEQUENTIAL%20%20%7C%20%20⚡%20OPENMP%20%20%7C%20%20🌐%20MPI%20%20%7C%20%20🎮%20CUDA&descAlignY=60&descSize=18" width="100%"/>
 
 <br>
 
-## 👨‍💻 SAI SRI RAM
+# 🌈 **PGC LABORATORY**
 
-### 🎓 B.Tech — Computer Science (Artificial Intelligence)
-### 🏛️ KLE Technological University, Hubballi
+### 🚀 Parallel & GPU Computing
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=850&lines=PARALLEL+COMPUTING+%E2%9A%A1;GPU+ACCELERATION+%F0%9F%9A%80;PERFORMANCE+BENCHMARKING+%F0%9F%93%8A;SEQUENTIAL+%E2%86%92+OPENMP+%E2%86%92+MPI+%E2%86%92+CUDA;COMPUTE+FASTER.+SCALE+FURTHER.+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=23&duration=2200&pause=600&color=00F5FF&center=true&vCenter=true&width=900&lines=SEQUENTIAL+COMPUTING+%F0%9F%96%A5%EF%B8%8F;MULTITHREADING+WITH+OPENMP+%E2%9A%A1;DISTRIBUTED+COMPUTING+WITH+MPI+%F0%9F%8C%90;GPU+ACCELERATION+WITH+CUDA+%F0%9F%8E%AE;PERFORMANCE+BENCHMARKING+%F0%9F%93%8A;PARALLELIZE.+ACCELERATE.+OPTIMIZE.+%F0%9F%9A%80"/>
 
 <br>
 
-![C](https://img.shields.io/badge/C-00C6FF?style=for-the-badge&logo=c&logoColor=white)
-![OpenMP](https://img.shields.io/badge/OpenMP-FF6B00?style=for-the-badge)
-![PThreads](https://img.shields.io/badge/PThreads-FF0080?style=for-the-badge)
-![MPI](https://img.shields.io/badge/MPI-7B2FFF?style=for-the-badge)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![GPU](https://img.shields.io/badge/GPU-00FF88?style=for-the-badge)
-![Benchmarking](https://img.shields.io/badge/Benchmarking-FFD000?style=for-the-badge)
-![Parallel Computing](https://img.shields.io/badge/Parallel_Computing-FF00C8?style=for-the-badge)
+### 👨‍💻 **SAI SRI RAM**
+
+**B.Tech — Computer Science (Artificial Intelligence)**  
+**KLE Technological University, Hubballi**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=saisriram03&label=Repository%20Views&color=00F5FF&style=for-the-badge"/>
+![C](https://img.shields.io/badge/💻_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PThreads](https://img.shields.io/badge/🧵_PTHREADS-FF0080?style=for-the-badge)
+![OpenMP](https://img.shields.io/badge/⚡_OPENMP-FF6B00?style=for-the-badge)
+![MPI](https://img.shields.io/badge/🌐_MPI-7B2FFF?style=for-the-badge)
+![CUDA](https://img.shields.io/badge/🎮_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GPU](https://img.shields.io/badge/🚀_GPU_COMPUTING-00C6FF?style=for-the-badge)
+![Benchmark](https://img.shields.io/badge/📊_BENCHMARKING-FFD000?style=for-the-badge)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,25:7B2FFF,50:0066FF,75:00C6FF,100:00FF88&height=5&section=header" width="90%"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 🌌 ABOUT THIS REPOSITORY
 
-# 🌌✨ WELCOME TO THE COMPUTE ZONE ✨🌌
+> ## 🚀 **One Repository • Multiple Experiments • Multiple Architectures • One Goal — HIGH PERFORMANCE**
 
-### 🧠 **One Problem. Multiple Architectures. Infinite Possibilities.**
+This repository contains the practical work for the **Parallel and GPU Computing Laboratory**.
 
-</div>
-
-> 🚀 This repository explores how computational workloads evolve from **traditional sequential execution** into **multithreaded CPU computing, distributed computing, and massively parallel GPU computing**.
-
----
-
-# 🌈🧩 THE BIG PICTURE
-
-<div align="center">
+The work progresses from basic CPU execution to advanced parallel computing models:
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                 ⚡ PARALLEL COMPUTING JOURNEY ⚡              ║
-╚══════════════════════════════════════════════════════════════╝
-
-                         🧮 PROBLEM
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ 🖥️ SEQUENTIAL   │
-                    │   One Thread    │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ 🧵 PTHREADS     │
-                    │ CPU Threads     │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ ⚡ OPENMP       │
-                    │ Shared Memory   │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ 🌐 MPI          │
-                    │ Distributed     │
-                    │ Processing      │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │ 🎮 CUDA         │
-                    │ GPU Parallelism │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    🚀 PERFORMANCE
-                       ACCELERATION
+                         🧠 PARALLEL COMPUTING
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+        🖥️ CPU COMPUTING     🌐 DISTRIBUTED      🎮 GPU COMPUTING
+             │                 COMPUTING               │
+             │                    │                    │
+        ┌────┴────┐               │                ┌───┴───┐
+        ▼         ▼               ▼                ▼       ▼
+   Sequential  OpenMP           MPI             CUDA   GPU Threads
+        │         │               │                │
+        └─────────┴───────────────┴────────────────┘
+                              │
+                              ▼
+                     📊 PERFORMANCE ANALYSIS
+                              │
+                              ▼
+                         🚀 SPEEDUP
