@@ -1,16 +1,20 @@
-# 🌈⚡ PARALLEL & GPU COMPUTING ⚡🌈
+# 🌈⚡ Parallel & GPU Computing ⚡🌈
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,15:FF00C8,30:7B2FFF,45:0066FF,60:00C6FF,75:00FF88,90:FFD000,100:FF6B00&height=220&section=header&text=PARALLEL%20%26%20GPU%20COMPUTING&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PTHREADS%20%7C%20OPENMP%20%7C%20MPI%20%7C%20CUDA&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,15:FF00C8,30:9C27B0,45:7B2FFF,60:0066FF,75:00C6FF,90:00FF88,100:FFD000&height=220&section=header&text=PARALLEL%20%26%20GPU%20COMPUTING&fontSize=44&fontColor=FFFFFF&fontFamily=Montserrat&animation=fadeIn&fontAlignY=35&desc=PTHREADS%20%7C%20OPENMP%20%7C%20MPI%20%7C%20CUDA&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=1600&pause=500&color=FF0080&center=true&vCenter=true&width=950&height=55&lines=PARALLEL+COMPUTING;PTHREADS;OPENMP;MPI;CUDA;GPU+ACCELERATION;PERFORMANCE+BENCHMARKING;HIGH+PERFORMANCE+COMPUTING" />
+<a href="https://github.com/denvercoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=900&size=23&duration=1700&pause=600&color=FF00C8&center=true&vCenter=true&width=950&height=55&lines=PARALLEL+COMPUTING;PTHREADS;OPENMP;MPI;CUDA;GPU+ACCELERATION;PERFORMANCE+BENCHMARKING;HIGH+PERFORMANCE+COMPUTING" alt="Parallel Computing Animation"/>
+</a>
 
 <br><br>
 
-### 👨‍💻 **SAI SRI RAM**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7B2FFF,100:00C6FF&height=75&text=SAI%20SRI%20RAM&fontSize=31&fontColor=FFFFFF&fontFamily=Montserrat&animation=fadeIn" width="70%"/>
+
+<br><br>
 
 **B.Tech — Computer Science (Artificial Intelligence)**  
 **KLE Technological University, Hubballi**
@@ -28,11 +32,19 @@
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,20:FF00C8,40:7B2FFF,60:0066FF,80:00C6FF,100:00FF88&height=70&text=ABOUT%20THIS%20LAB&fontSize=29&fontColor=FFFFFF&fontFamily=Montserrat&animation=twinkling" width="100%"/>
+
+</div>
+
 # 🌌 PARALLEL & GPU COMPUTING LAB
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=19&duration=1800&pause=600&color=7B2FFF&center=true&vCenter=true&width=900&height=45&lines=SEQUENTIAL+%E2%86%92+PTHREADS+%E2%86%92+OPENMP+%E2%86%92+MPI+%E2%86%92+CUDA;COMPUTE+%E2%80%A2+PARALLELIZE+%E2%80%A2+BENCHMARK+%E2%80%A2+OPTIMIZE" />
+<a href="https://github.com/denvercoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=19&duration=1800&pause=600&color=7B2FFF&center=true&vCenter=true&width=900&height=45&lines=SEQUENTIAL+%E2%86%92+PTHREADS+%E2%86%92+OPENMP+%E2%86%92+MPI+%E2%86%92+CUDA;COMPUTE+%E2%80%A2+PARALLELIZE+%E2%80%A2+BENCHMARK+%E2%80%A2+OPTIMIZE" alt="Computing Flow Animation"/>
+</a>
 
 </div>
 
@@ -40,7 +52,11 @@
 
 This repository contains my complete practical work for the **Parallel & GPU Computing Laboratory**.
 
-The laboratory explores different techniques for executing computational workloads efficiently using multiple threads, processes and GPU resources.
+The laboratory explores different approaches for executing computational workloads efficiently using multiple threads, processes and GPU resources.
+
+<br>
+
+<div align="center">
 
 ```text
 🌈 PARALLEL & GPU COMPUTING LAB
