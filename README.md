@@ -1,59 +1,62 @@
+<!-- ========================================================= -->
+<!--              PARALLEL & GPU COMPUTING LAB                -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,15:FF00C8,30:7B2FFF,45:0066FF,60:00C6FF,75:00FF88,90:FFD000,100:FF6B00&height=280&section=header&text=PARALLEL%20%26%20GPU%20COMPUTING%20LAB&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=SEQUENTIAL%20%7C%20PTHREADS%20%7C%20OPENMP%20%7C%20MPI%20%7C%20CUDA&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,15:FF00C8,30:8A2BE2,45:0066FF,60:00C6FF,75:00FF88,90:FFD000,100:FF6B00&height=220&section=header&text=PARALLEL%20%26%20GPU%20COMPUTING%20LAB&fontSize=38&fontColor=FFFFFF&fontAlignY=42&animation=twinkling&fontFamily=Montserrat" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=23&duration=1800&pause=650&color=00F5FF&center=true&vCenter=true&width=950&height=55&lines=PARALLEL+%26+GPU+COMPUTING;SEQUENTIAL+%E2%86%92+PTHREADS+%E2%86%92+OPENMP;OPENMP+%E2%86%92+MPI+%E2%86%92+CUDA;CPU+PARALLELISM;DISTRIBUTED+COMPUTING;GPU+ACCELERATION;PERFORMANCE+BENCHMARKING;THINK+PARALLEL.+COMPUTE+FASTER." />
-
-<br><br>
-
-# 👨‍💻 SAI SRI RAM
-
-### 🎓 B.Tech — Computer Science (Artificial Intelligence)
-
-### 🏛️ KLE Technological University, Hubballi
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=1700&pause=500&color=00F5FF&center=true&vCenter=true&width=1000&height=60&lines=PARALLEL+%26+GPU+COMPUTING;SEQUENTIAL+%E2%86%92+PTHREADS+%E2%86%92+OPENMP;OPENMP+%E2%86%92+MPI+%E2%86%92+CUDA;CPU+PARALLELISM;DISTRIBUTED+COMPUTING;GPU+ACCELERATION;PERFORMANCE+BENCHMARKING;THINK+PARALLEL+%7C+COMPUTE+FASTER" />
 
 <br>
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/PTHREADS-FF0080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OPENMP-FF6B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MPI-7B2FFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-<img src="https://img.shields.io/badge/GPU-00C6FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BENCHMARKING-FFD000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_PARALLEL_COMPUTING-FF0080?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎮_GPU_COMPUTING-7B2FFF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀_HIGH_PERFORMANCE-0066FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/📊_BENCHMARKING-00C853?style=for-the-badge&logoColor=white"/>
 
 <br><br>
+
+### 👨‍💻 LAB PORTFOLIO
+
+**Sai Sri Ram**
+
+**B.Tech — Computer Science & Engineering (AI)**
 
 </div>
 
 ---
 
-# 🌌 ABOUT THE LAB
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,50:7B2FFF,100:00C6FF&height=55&section=header&text=🌈%20PARALLEL%20%26%20GPU%20COMPUTING&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
 
-> 🚀 **Parallel & GPU Computing Laboratory** explores how computational workloads can be transformed from traditional sequential execution into highly parallel CPU, distributed, and GPU-based execution.
+## 🚀 ABOUT THIS REPOSITORY
+
+This repository contains my **Parallel & GPU Computing Lab** work, experiments, benchmarking studies, performance analysis and mini project implementations.
+
+The laboratory work explores how computational workloads can be accelerated using different forms of parallelism — from **single-threaded execution** to **multithreading, shared-memory parallelism, distributed computing and GPU computing**.
+
+<div align="center">
+
+### 🧠 THE COMPUTING JOURNEY
 
 ```text
-🧮 COMPUTATIONAL PROBLEM
-          │
-          ▼
-   🖥️ SEQUENTIAL
-          │
-          ▼
-     🧵 THREADS
-          │
-          ▼
-      ⚡ OPENMP
-          │
-          ▼
-       🌐 MPI
-          │
-          ▼
-      🎮 CUDA
-          │
-          ▼
-   📊 BENCHMARKING
-          │
-          ▼
-   🚀 PERFORMANCE
+                    COMPUTING
+                        │
+          ┌─────────────┴─────────────┐
+          │                           │
+      SEQUENTIAL                  PARALLEL
+          │                           │
+          │             ┌─────────────┼─────────────┐
+          │             │             │             │
+          ▼             ▼             ▼             ▼
+       PTHREADS       OPENMP         MPI          CUDA
+          │             │             │             │
+          └─────────────┴─────────────┴─────────────┘
+                              │
+                              ▼
+                    ⚡ PERFORMANCE ANALYSIS
+                              │
+                              ▼
+                     🚀 FASTER COMPUTING
