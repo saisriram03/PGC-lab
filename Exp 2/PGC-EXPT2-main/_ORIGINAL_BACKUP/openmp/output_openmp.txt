@@ -1,0 +1,34 @@
+=== omp1 ===
+Hello from Thread 3 of 4
+Hello from Thread 0 of 4
+Hello from Thread 1 of 4
+Hello from Thread 2 of 4
+
+=== omp_sum ===
+Thread 0 processing array[0] = 10
+Thread 0 processing array[1] = 20
+Thread 1 processing array[2] = 30
+Thread 1 processing array[3] = 40
+Thread 2 processing array[4] = 50
+Thread 2 processing array[5] = 60
+Thread 3 processing array[6] = 70
+Thread 3 processing array[7] = 80
+Total sum = 360
+
+=== omp_race ===
+Expected counter = 400000
+Actual counter   = 101477
+
+=== omp_critical ===
+Expected counter = 400000
+Actual counter   = 400000
+
+=== omp_barrier ===
+Thread 1 completed Stage 1
+Thread 0 completed Stage 1
+Thread 3 completed Stage 1
+Thread 2 completed Stage 1
+Thread 1 started Stage 2
+Thread 3 started Stage 2
+Thread 2 started Stage 2
+Thread 0 started Stage 2
