@@ -1,4 +1,5 @@
-                    # 🌈⚡ PARALLEL & GPU COMPUTING ⚡🌈
+
+ # 🌈⚡ PARALLEL & GPU COMPUTING ⚡🌈
 
 <div align="center">
 
