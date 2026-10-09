@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,15:FF00C8,30:7B2FFF,45:0066FF,60:00C6FF,75:00FF88,90:FFD000,100:FF6B00&height=220&section=header&text=PARALLEL%20%26%20GPU%20COMPUTING&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PTHREADS%20%7C%20OPENMP%20%7C%20MPI%20%7C%20CUDA&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
